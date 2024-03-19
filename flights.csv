@@ -1,0 +1,201 @@
+Country,Destination,BudgetMin,BudgetMax
+Thailand,Bangkok,3900,7000
+Thailand,Chiang Mai,4860,11560
+Thailand,Phuket,4390,8590
+Mexico,Cancun,2820,9420
+Mexico,Mexico City,4890,8340
+Mexico,Guadalajara,2330,8800
+United Kingdom,London,3970,7060
+United Kingdom,Edinburgh,4430,9920
+United Kingdom,Manchester,2910,6110
+South Africa,Cape Town,3230,6570
+South Africa,Johannesburg,2270,7840
+South Africa,Durban,2380,6840
+China,Beijing,3920,7190
+China,Shanghai,3710,9310
+China,Guangzhou,2290,8850
+United Arab Emirates,Dubai,2010,7200
+United Arab Emirates,Abu Dhabi,2410,6020
+United Arab Emirates,Sharjah,4030,10780
+Argentina,Buenos Aires,3040,9090
+Argentina,Mendoza,4750,9100
+Argentina,Bariloche,3790,8700
+Turkey,Istanbul,3370,8600
+Turkey,Ankara,2590,8750
+Turkey,Antalya,2360,7520
+Greece,Athens,3190,8240
+Greece,Santorini,4790,8210
+Greece,Mykonos,4920,8610
+Italy,Rome,2740,9540
+Italy,Venice,2450,6230
+Italy,Milan,2010,5730
+Italy,Florence,4570,9640
+Italy,Naples,4010,10550
+Spain,Barcelona,3590,8890
+Spain,Madrid,4910,9610
+Spain,Valencia,3400,10220
+Spain,Seville,3000,6880
+Spain,Granada,2970,8810
+France,Paris,4990,10450
+France,Nice,4810,10420
+France,Lyon,2700,7960
+France,Marseille,3310,8940
+France,Bordeaux,2010,5600
+USA,New York City,2290,6640
+USA,Los Angeles,2770,7130
+USA,Chicago,2390,6830
+USA,Miami,3200,6470
+USA,Las Vegas,2540,8020
+Japan,Tokyo,3130,8240
+Japan,Kyoto,2330,5650
+Japan,Osaka,3280,7650
+Japan,Hokkaido,3160,6790
+Japan,Okinawa,3970,8530
+Canada,Toronto,2830,6600
+Canada,Vancouver,2950,7760
+Canada,Montreal,3320,9960
+Canada,Quebec City,3640,9120
+Canada,Calgary,2380,7330
+Brazil,Rio de Janeiro,3410,9590
+Brazil,Sao Paulo,3800,7100
+Brazil,Salvador,3280,8530
+Brazil,Brasilia,3800,7490
+Brazil,Fortaleza,2610,9200
+India,New Delhi,3370,9970
+India,Mumbai,3780,9490
+India,Bangalore,4790,8860
+India,Jaipur,2810,9530
+India,Goa,3020,8640
+Germany,Berlin,4740,11330
+Germany,Munich,4030,10740
+Germany,Frankfurt,3600,9630
+Germany,Hamburg,2290,6070
+Germany,Cologne,2020,8530
+Australia,Sydney,2820,6220
+Australia,Melbourne,2920,6300
+Australia,Brisbane,3850,9600
+Australia,Perth,4630,9690
+Australia,Adelaide,3780,9750
+Japan,Osaka,3090,6560
+USA,Las Vegas,3190,6200
+Thailand,Chiang Mai,3350,9440
+Brazil,Sao Paulo,3430,6610
+United Kingdom,Manchester,4780,8530
+Argentina,Mendoza,3810,10240
+Italy,Venice,4680,10700
+United Arab Emirates,Dubai,2190,9180
+Greece,Mykonos,2380,5850
+Mexico,Cancun,4960,7960
+Spain,Granada,3120,6370
+France,Bordeaux,4670,10080
+Australia,Brisbane,4810,9480
+Germany,Cologne,4760,9570
+Mexico,Mexico City,2550,8820
+India,New Delhi,2410,8810
+United Arab Emirates,Abu Dhabi,3210,9280
+France,Lyon,3610,8140
+Italy,Venice,3550,10120
+Brazil,Fortaleza,3300,9920
+Mexico,Cancun,2020,8570
+Australia,Brisbane,3770,8240
+Brazil,Fortaleza,4950,11730
+Turkey,Ankara,4480,8510
+Argentina,Bariloche,3120,9360
+Mexico,Mexico City,3310,9540
+United Arab Emirates,Abu Dhabi,3070,6550
+Brazil,Rio de Janeiro,3770,7270
+India,Mumbai,3270,7480
+Thailand,Chiang Mai,3970,8910
+Germany,Frankfurt,2160,8180
+Italy,Venice,4970,9850
+Mexico,Mexico City,4660,10390
+USA,New York City,2960,6300
+India,Jaipur,3600,9310
+Thailand,Phuket,4030,9930
+United Arab Emirates,Abu Dhabi,2390,5490
+Greece,Santorini,4140,8590
+Argentina,Buenos Aires,4700,7890
+Australia,Perth,4390,10100
+United Arab Emirates,Sharjah,3190,7560
+Japan,Tokyo,4840,8580
+Germany,Cologne,4370,8670
+China,Shanghai,4390,7680
+South Africa,Johannesburg,2220,8600
+Italy,Rome,3610,10200
+Greece,Santorini,4740,9250
+Spain,Barcelona,4090,7540
+United Kingdom,London,2640,6470
+Mexico,Cancun,5000,8110
+Mexico,Guadalajara,4740,8790
+Italy,Naples,3530,9240
+Argentina,Buenos Aires,2640,8250
+South Africa,Johannesburg,2670,8180
+Brazil,Fortaleza,2440,8480
+Thailand,Bangkok,3260,9830
+Mexico,Guadalajara,4950,9140
+USA,Las Vegas,3240,6700
+Spain,Madrid,3870,10310
+Japan,Okinawa,2660,9550
+Mexico,Mexico City,4930,10590
+Greece,Athens,2940,7690
+India,Bangalore,2650,9560
+United Arab Emirates,Sharjah,4880,8450
+Germany,Frankfurt,3070,7110
+Australia,Perth,2760,7560
+Thailand,Phuket,4050,7110
+Turkey,Istanbul,3560,6640
+United Arab Emirates,Abu Dhabi,3600,9770
+Spain,Valencia,3880,7240
+USA,Miami,2840,9370
+Spain,Seville,4890,11120
+India,Jaipur,2250,8360
+Turkey,Istanbul,2650,9460
+China,Guangzhou,3370,9140
+China,Shanghai,3100,9880
+Spain,Barcelona,2280,7160
+South Africa,Cape Town,3500,9320
+Brazil,Fortaleza,3810,7970
+Mexico,Mexico City,3600,10160
+United Arab Emirates,Sharjah,3570,10370
+United Kingdom,Edinburgh,4950,10550
+France,Paris,4910,9940
+Australia,Sydney,2010,8010
+Spain,Granada,3720,8250
+Argentina,Buenos Aires,4280,8210
+Mexico,Cancun,4080,7680
+Turkey,Istanbul,4790,9400
+Spain,Granada,3460,8830
+Germany,Cologne,4030,10900
+Spain,Seville,3580,9640
+Argentina,Mendoza,4100,8550
+United Arab Emirates,Abu Dhabi,4980,9020
+Mexico,Mexico City,2040,6400
+Thailand,Chiang Mai,3570,9780
+South Africa,Johannesburg,4630,7660
+United Kingdom,Manchester,4060,9290
+Australia,Brisbane,2980,6350
+Germany,Berlin,4750,10060
+India,Mumbai,2540,9440
+Australia,Sydney,4030,8600
+South Africa,Johannesburg,4690,10110
+Argentina,Buenos Aires,4960,8220
+Spain,Madrid,3170,7830
+Thailand,Phuket,3200,8630
+United Arab Emirates,Sharjah,4100,10100
+Brazil,Salvador,4230,8580
+Spain,Madrid,3210,7080
+South Africa,Cape Town,3350,7700
+Germany,Munich,3730,9290
+Australia,Melbourne,3820,8130
+Thailand,Phuket,2720,6380
+Italy,Florence,3950,9420
+Germany,Munich,3440,7000
+Argentina,Mendoza,2230,8970
+Canada,Calgary,4350,8670
+Germany,Frankfurt,2030,5030
+United Kingdom,Edinburgh,4620,9660
+Spain,Granada,4390,10170
+United Arab Emirates,Sharjah,3570,10080
+Italy,Florence,2570,6520
+United Kingdom,Edinburgh,2020,9020
+France,Paris,4730,9450

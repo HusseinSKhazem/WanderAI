@@ -1,0 +1,91 @@
+Location,IsQuiet,HasBeaches,HasCountryside,Budget
+Tokyo,0,1,0,Medium
+Paris,1,0,1,Medium
+London,0,0,1,Low
+Barcelona,0,0,1,Medium
+Berlin,1,0,0,Low
+Sydney,0,1,1,Low
+Rome,0,0,0,Medium
+Bangkok,0,1,0,Low
+Dubai,1,1,0,High
+Istanbul,0,0,0,High
+Amsterdam,0,0,0,High
+Toronto,0,1,1,High
+Singapore,0,0,1,Medium
+Lisbon,1,0,1,Medium
+Buenos Aires,0,1,1,Medium
+Cape Town,1,1,0,High
+Moscow,1,0,1,High
+Seoul,1,1,0,Low
+Mumbai,0,0,1,Low
+Mexico City,1,0,0,High
+Vienna,0,0,0,High
+Cairo,1,1,1,High
+Beijing,1,1,0,High
+Havana,1,1,0,Low
+Nairobi,1,1,1,High
+Reykjavik,1,1,0,Low
+Wellington,1,0,1,High
+Kuala Lumpur,1,0,1,High
+Santiago,1,0,1,High
+Oslo,0,0,0,Low
+Athens,0,1,0,Low
+Budapest,1,0,0,Medium
+Copenhagen,1,1,1,High
+Jakarta,1,0,0,Medium
+Helsinki,0,1,1,Medium
+Warsaw,1,1,1,Low
+Dublin,0,0,0,Low
+Brasilia,0,0,1,Medium
+Quito,0,0,0,High
+Bogotá,0,0,0,Low
+Kathmandu,0,1,0,High
+Lima,1,0,0,High
+Hanoi,1,0,0,Medium
+Manila,1,1,1,Medium
+Riyadh,1,0,1,Medium
+Zurich,1,0,1,Medium
+Lagos,0,0,0,Low
+Brisbane,1,0,0,Low
+Stockholm,1,0,0,Medium
+Madrid,0,0,1,Low
+Fiji,0,0,0,Medium
+Maldives,1,1,0,Medium
+Venice,0,0,1,Medium
+Monte Carlo,1,0,1,High
+Santorini,0,0,0,Low
+Maui,0,1,0,Medium
+Bora Bora,1,1,1,Low
+Phuket,1,0,1,High
+Bali,0,0,0,Medium
+Cancun,0,1,1,Medium
+Aspen,1,0,0,Medium
+St. Lucia,1,0,0,Medium
+Banff,1,0,1,Medium
+Ibiza,1,1,1,Medium
+Mykonos,1,1,0,High
+Zermatt,0,1,1,Low
+Kyoto,0,0,0,Low
+Queenstown,0,0,1,Medium
+Jaipur,0,1,1,Medium
+Seychelles,1,1,0,Medium
+Tahiti,0,0,0,High
+Amalfi Coast,0,1,1,High
+Napa Valley,1,0,0,Medium
+Sonoma,0,0,0,High
+Bar Harbor,0,0,1,Low
+Big Sur,0,0,1,Medium
+Cape Cod,0,1,1,Low
+Martha's Vineyard,0,1,1,Medium
+Lake Tahoe,0,1,0,Low
+Yellowstone,1,1,1,Low
+Yosemite,0,0,1,Low
+Zion,0,1,1,Medium
+Grand Canyon,0,1,0,Low
+Glacier National Park,0,1,1,Medium
+Acadia,0,1,1,High
+Great Smoky Mountains,1,1,1,Medium
+Rocky Mountain,1,0,0,Medium
+Olympic,0,1,1,High
+Sequoia,1,0,1,Medium
+Joshua Tree,0,1,1,Medium
